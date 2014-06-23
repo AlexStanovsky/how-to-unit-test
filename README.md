@@ -1,4 +1,4 @@
 how-to-unit-test
 ================
 
-How to do proper unit tests
+Few ideas to how to do unit tests, which are implemented in the Useless box.
