@@ -1,7 +1,7 @@
 how-to-unit-test
 ================
 
-Few ideas to how to do unit tests, which are implemented on a Useless box.
+Few ideas on how to do unit tests, which are implemented on a Useless box.
 
 
     state_machine = StateMachine.new
