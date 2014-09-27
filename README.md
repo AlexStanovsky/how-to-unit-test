@@ -1,8 +1,5 @@
 
-= Ancestry
-
-== how-to-unit-test
-
+# how-to-unit-test
 
 Few ideas on how to do unit tests, which are implemented on a Useless box.
 
